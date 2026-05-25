@@ -1,4 +1,4 @@
-# 🌌 Singularity Horizon Technologies
+# 🌌 SingularityHorizon Technologies 
 **Architecting the autonomous future.**
 
 We are the engineering core behind **Orion Helix AI**. Our repositories focus on building highly sensitive, proprietary intellectual property across:
