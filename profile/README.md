@@ -1,4 +1,4 @@
-<div align="centre"> 
+<div align="centre">  
   <a href="https://github.com/Singularity Horizon"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF00&background=0A0A0A&center=true&vCenter=true&width=800&lines=>_Initializing+Orion+Helix+Core...;>_Establishing+Secure+WSS+Tunnels...;>_Agentic+Workflows+Online.;>_Singularity_Horizon_Infr astructure_Active." alt="Terminal Output" />
   </a>
