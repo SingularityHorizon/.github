@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:031a0a,100:00c853&height=240&section=header&text=SingularityHorizon&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Technologies%20Pvt.%20Ltd.%20%7C%20SiHo&descAlignY=58&descSize=20&descColor=00e676" width="100%" alt="SingularityHorizon Technologies Pvt. Ltd. (SiHo)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D4,50:05080C,100:FFB300&height=240&section=header&text=SingularityHorizon&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Technologies%20Pvt.%20Ltd.%20%7C%20SiHo&descAlignY=58&descSize=20&descColor=FFD54F" width="100%" alt="SingularityHorizon Technologies Pvt. Ltd. (SiHo)" />
 
 <a href="https://github.com/SingularityHorizon">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF00&background=0A0A0A&center=true&vCenter=true&width=800&height=45&lines=%3E_Initializing+Orion+Helix+Core...;%3E_Establishing+Secure+WSS+Tunnels...;%3E_Agentic+Workflows+Online.;%3E_SingularityHorizon_Infrastructure_Active." alt="Terminal Output" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=00E5FF&background=00000000&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Initializing+Orion+Helix+Core...;Establishing+Secure+WSS+Tunnels...;Agentic+Workflows+Online.;SingularityHorizon+Infrastructure+Active." alt="Initializing Orion Helix Core" />
 </a>
 
 <br/><br/>
 
-[![Website](https://img.shields.io/badge/Website-singularityunion.tech-00c853?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=000000)](https://singularityunion.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/company/YOUR-LINKEDIN-SLUG)
-[![X](https://img.shields.io/badge/X-@SINGULARIT95067-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/SINGULARIT95067)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://youtube.com/@SINGULARITYHORIZON-s4I)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-e4405f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/YOUR-INSTAGRAM-HANDLE)
-[![Email](https://img.shields.io/badge/Contact-singularityhorizon.hq-00c853?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000)](mailto:singularityhorizon.hq@gmail.com)
+[![Website](https://img.shields.io/badge/WEBSITE-singularityunion.tech-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=00E5FF&labelColor=0A0A0A)](https://singularityunion.tech/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FOLLOW-FFC400?style=for-the-badge&logo=linkedin&logoColor=FFC400&labelColor=0A0A0A)](https://www.linkedin.com/company/YOUR-LINKEDIN-SLUG)
+[![X](https://img.shields.io/badge/X-@SINGULARIT95067-00E5FF?style=for-the-badge&logo=x&logoColor=00E5FF&labelColor=0A0A0A)](https://x.com/SINGULARIT95067)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-SUBSCRIBE-FFC400?style=for-the-badge&logo=youtube&logoColor=FFC400&labelColor=0A0A0A)](https://youtube.com/@SINGULARITYHORIZON-s4I)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-00E5FF?style=for-the-badge&logo=instagram&logoColor=00E5FF&labelColor=0A0A0A)](https://www.instagram.com/YOUR-INSTAGRAM-HANDLE)
+[![Email](https://img.shields.io/badge/CONTACT-singularityhorizon.hq-FFC400?style=for-the-badge&logo=gmail&logoColor=FFC400&labelColor=0A0A0A)](mailto:singularityhorizon.hq@gmail.com)
 
 </div>
 
@@ -51,11 +51,11 @@ Shared multiverse rooms built for teams, organizations, and secure workflows.
 ## ◈ System Architecture: Orion Helix Flow
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0a0a0a','primaryTextColor':'#ffffff','primaryBorderColor':'#333333','lineColor':'#00e676','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0a0a0a','primaryTextColor':'#ffffff','primaryBorderColor':'#00E5FF','lineColor':'#FFC400','fontFamily':'monospace'}}}%%
 flowchart TD
-    classDef core fill:#0a0a0a,stroke:#444,stroke-width:1px,color:#ffffff;
-    classDef agent fill:#031a0a,stroke:#00ff00,stroke-width:2px,color:#00ff00;
-    classDef data fill:#111111,stroke:#00c853,stroke-width:1px,color:#aaaaaa;
+    classDef core fill:#0a0a0a,stroke:#00E5FF,stroke-width:1px,color:#ffffff;
+    classDef agent fill:#1a1400,stroke:#FFC400,stroke-width:2px,color:#FFD54F;
+    classDef data fill:#06181c,stroke:#00E5FF,stroke-width:1px,color:#80F0FF;
 
     subgraph EDGE["⬡ EDGE LAYER"]
         A["Client Interface<br/>Multiverse Rooms"]:::core
@@ -79,9 +79,9 @@ flowchart TD
     D --> F
     E --> F
 
-    style EDGE fill:#050505,stroke:#222,stroke-dasharray: 4 4,color:#888
-    style INTEL fill:#050505,stroke:#00c853,stroke-dasharray: 4 4,color:#00e676
-    style MEMORY fill:#050505,stroke:#222,stroke-dasharray: 4 4,color:#888
+    style EDGE fill:#050505,stroke:#00E5FF,stroke-dasharray: 4 4,color:#80F0FF
+    style INTEL fill:#050505,stroke:#FFC400,stroke-dasharray: 4 4,color:#FFD54F
+    style MEMORY fill:#050505,stroke:#00E5FF,stroke-dasharray: 4 4,color:#80F0FF
 ```
 
 | Layer | Responsibility |
@@ -107,12 +107,12 @@ flowchart TD
 
 <div align="center">
 
-![LLM Orchestration](https://img.shields.io/badge/LLM-Orchestration-00c853?style=for-the-badge&labelColor=000000)
-![Agentic Workflows](https://img.shields.io/badge/Agentic-Workflows-00c853?style=for-the-badge&labelColor=000000)
-![Real-Time Sync](https://img.shields.io/badge/Real--Time-Sync-00c853?style=for-the-badge&labelColor=000000)
-![Data Pipelines](https://img.shields.io/badge/Data-Pipelines-00c853?style=for-the-badge&labelColor=000000)
-![Vector Memory](https://img.shields.io/badge/Vector-Memory-00c853?style=for-the-badge&labelColor=000000)
-![Secure WSS](https://img.shields.io/badge/Secure-WSS-00c853?style=for-the-badge&labelColor=000000)
+![LLM Orchestration](https://img.shields.io/badge/LLM-Orchestration-00E5FF?style=for-the-badge&labelColor=0A0A0A)
+![Agentic Workflows](https://img.shields.io/badge/Agentic-Workflows-FFC400?style=for-the-badge&labelColor=0A0A0A)
+![Real-Time Sync](https://img.shields.io/badge/Real--Time-Sync-00E5FF?style=for-the-badge&labelColor=0A0A0A)
+![Data Pipelines](https://img.shields.io/badge/Data-Pipelines-FFC400?style=for-the-badge&labelColor=0A0A0A)
+![Vector Memory](https://img.shields.io/badge/Vector-Memory-00E5FF?style=for-the-badge&labelColor=0A0A0A)
+![Secure WSS](https://img.shields.io/badge/Secure-WSS-FFC400?style=for-the-badge&labelColor=0A0A0A)
 
 </div>
 
@@ -131,7 +131,7 @@ flowchart TD
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,45:031a0a,100:000000&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB300,50:05080C,100:00B8D4&height=110&section=footer" width="100%" alt="" />
 
 <sub>© SingularityHorizon Technologies Pvt. Ltd. (SiHo). Architecting the Autonomous Future.</sub>
 
